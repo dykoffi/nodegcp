@@ -1,0 +1,12 @@
+{
+    "name": "nodeaws",
+    "type": "module",
+    "version": "1.0.0",
+    "description": "test node js on fargate",
+    "main": "index.js",
+    "license": "MIT",
+    "private": false,
+    "dependencies": {
+        "express": "^4.17.3"
+    }
+}
